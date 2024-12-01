@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Version: 202412011203
+! Title: Custom Filter
+! Last modified: 01 Dec 2024
+! Expires: 1 days
+! ---------- Begin ----------
+
+hhkungfu.me##img.catfish-img
+hhkungfu.me##button.closecf
+hhkungfu.me###catfishads
+www.nettruyenww.com#%#||scriptlet("abort-on-property-read", "sp")
+||nettruyenww.com/assets/js/pop$script
